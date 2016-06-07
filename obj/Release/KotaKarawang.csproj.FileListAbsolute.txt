@@ -1,0 +1,14 @@
+E:\Belajar\AndroidApps\KotaKarawang\bin\Release\KotaKarawang.dll
+E:\Belajar\AndroidApps\KotaKarawang\bin\Release\KotaKarawang.KotaKarawang.apk
+E:\Belajar\AndroidApps\KotaKarawang\bin\Release\KotaKarawang.KotaKarawang-Signed.apk
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\KotaKarawang.dll
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\android\bin\KotaKarawang.KotaKarawang.apk
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\layout\main.xml
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\values\strings.xml
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\drawable-hdpi\icon.png
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\drawable-mdpi\icon.png
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\drawable-xhdpi\icon.png
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\drawable-xxhdpi\icon.png
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\res\drawable-xxxhdpi\icon.png
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\R.cs.flag
+E:\Belajar\AndroidApps\KotaKarawang\obj\Release\uploadflags.txt
